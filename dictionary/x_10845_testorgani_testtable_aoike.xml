@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="TestTable_Aoike2" max_length="40" name="x_10845_testorgani_testtable_aoike" type="collection">
+    <element label="TestTable_Aoike3" max_length="40" name="x_10845_testorgani_testtable_aoike" type="collection">
+        <element label="IshiiColumn" max_length="40" name="ishiicolumn" type="string"/>
         <element label="Something" max_length="100" name="something" type="string"/>
     </element>
 </database>

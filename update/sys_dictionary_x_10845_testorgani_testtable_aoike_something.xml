@@ -3,6 +3,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="something" table="x_10845_testorgani_testtable_aoike">
         <active>true</active>
         <array>false</array>
+        <array_denormalized>false</array_denormalized>
         <attributes/>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
@@ -51,8 +52,8 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-02-06 03:19:50</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>2733a6014f303200470d30318110c731</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>2b546acd0fb032004466cbdce1050e70</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Something</sys_name>
         <sys_package display_value="TestOrganizationApp" source="x_10845_testorgani">b2b262890fb032004466cbdce1050ea3</sys_package>
@@ -60,8 +61,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="TestOrganizationApp">b2b262890fb032004466cbdce1050ea3</sys_scope>
         <sys_update_name>sys_dictionary_x_10845_testorgani_testtable_aoike_something</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-02-06 03:19:50</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-02-06 03:21:52</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

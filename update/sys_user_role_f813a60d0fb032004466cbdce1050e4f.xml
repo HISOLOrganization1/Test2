@@ -7,21 +7,21 @@
         <elevated_privilege>false</elevated_privilege>
         <grantable>true</grantable>
         <includes_roles/>
-        <name>x_10845_testorgani_testtable_aoike_user</name>
-        <suffix/>
+        <name>x_10845_testorgani.ishiitest_user</name>
+        <suffix>ishiitest_user</suffix>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-02-06 03:16:14</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>e113a2014f303200470d30318110c73e</sys_id>
+        <sys_created_on>2017-02-06 03:16:12</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>f813a60d0fb032004466cbdce1050e4f</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_10845_testorgani_testtable_aoike_user</sys_name>
+        <sys_name>x_10845_testorgani.ishiitest_user</sys_name>
         <sys_package display_value="TestOrganizationApp" source="x_10845_testorgani">b2b262890fb032004466cbdce1050ea3</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="TestOrganizationApp">b2b262890fb032004466cbdce1050ea3</sys_scope>
-        <sys_update_name>sys_user_role_e113a2014f303200470d30318110c73e</sys_update_name>
+        <sys_update_name>sys_user_role_f813a60d0fb032004466cbdce1050e4f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-02-06 03:16:14</sys_updated_on>
+        <sys_updated_on>2017-02-06 03:16:12</sys_updated_on>
     </sys_user_role>
 </record_update>
